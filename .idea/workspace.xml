@@ -162,6 +162,7 @@
       <find>css/</find>
       <find>js/</find>
       <find>服务热线:400-600-8875;</find>
+      <find>北京谦汇通达科技有限公司</find>
     </findStrings>
     <replaceStrings>
       <replace>www.qianhuitongda.com</replace>
@@ -169,6 +170,7 @@
       <replace>./css/</replace>
       <replace>./js/</replace>
       <replace />
+      <replace>北京谦汇通达网络科技有限公司</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -260,12 +262,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571898556470</updated>
-      <workItem from="1571898558923" duration="3315000" />
+      <workItem from="1571898558923" duration="3491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3315000" />
+    <option name="totallyTimeSpent" value="3491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="47" width="1602" height="900" extended-state="0" />
