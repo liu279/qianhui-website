@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bf1b8d8-fdd9-45b7-bd4d-3e625475a411" name="Default Changelist" comment="" />
+    <list default="true" id="7bf1b8d8-fdd9-45b7-bd4d-3e625475a411" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gywm.html" beforeDir="false" afterPath="$PROJECT_DIR$/gywm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hzal.html" beforeDir="false" afterPath="$PROJECT_DIR$/hzal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jjfa.html" beforeDir="false" afterPath="$PROJECT_DIR$/jjfa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmlc.html" beforeDir="false" afterPath="$PROJECT_DIR$/jmlc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxwm.html" beforeDir="false" afterPath="$PROJECT_DIR$/lxwm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xwzx.asp-page=0.html" beforeDir="false" afterPath="$PROJECT_DIR$/xwzx.asp-page=0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xwzx.asp-page=2.html" beforeDir="false" afterPath="$PROJECT_DIR$/xwzx.asp-page=2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xwzx.html" beforeDir="false" afterPath="$PROJECT_DIR$/xwzx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxxq1.html" beforeDir="false" afterPath="$PROJECT_DIR$/xxxq1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxxq2.html" beforeDir="false" afterPath="$PROJECT_DIR$/xxxq2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxxq3.html" beforeDir="false" afterPath="$PROJECT_DIR$/xxxq3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxxq4.html" beforeDir="false" afterPath="$PROJECT_DIR$/xxxq4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxxq5.html" beforeDir="false" afterPath="$PROJECT_DIR$/xxxq5.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +33,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="37" />
+          <entry key="html" value="39" />
           <entry key="jpg" value="3" />
           <entry key="png" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="37" />
+          <entry key="HTML" value="39" />
           <entry key="Image" value="9" />
         </counts>
       </usages-collector>
@@ -43,30 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jmlc.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lxwm.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-              <folding>
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#4;n#tr#0;n#table#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#4;n#tr#0;n#table#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#8;n#tr#0;n#table#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xwzx.asp-page=0.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,11 +121,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xxxq5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="92" column="14" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="14" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzdt.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gywm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,17 +158,25 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>www.xx.cn</find>
+      <find>汇谦</find>
+      <find>css/</find>
+      <find>js/</find>
     </findStrings>
     <replaceStrings>
       <replace>www.qianhuitongda.com</replace>
+      <replace>谦汇</replace>
+      <replace>./css/</replace>
+      <replace>./js/</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/dzdt.html" />
-        <option value="$PROJECT_DIR$/gywm.html" />
         <option value="$PROJECT_DIR$/hzal.html" />
         <option value="$PROJECT_DIR$/jjfa.html" />
         <option value="$PROJECT_DIR$/jmlc.html" />
@@ -167,6 +189,7 @@
         <option value="$PROJECT_DIR$/xxxq3.html" />
         <option value="$PROJECT_DIR$/xxxq4.html" />
         <option value="$PROJECT_DIR$/xxxq5.html" />
+        <option value="$PROJECT_DIR$/gywm.html" />
       </list>
     </option>
   </component>
@@ -182,6 +205,7 @@
     <option name="width" value="1602" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -234,12 +258,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571898556470</updated>
-      <workItem from="1571898558923" duration="2787000" />
+      <workItem from="1571898558923" duration="3159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2787000" />
+    <option name="totallyTimeSpent" value="3159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="47" width="1602" height="900" extended-state="0" />
@@ -250,7 +274,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -307,39 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="65" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dzdt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
-          <folding>
-            <element signature="e#828#835#0" expanded="true" />
-            <element signature="e#839#846#0" expanded="true" />
-            <element signature="e#847#854#0" expanded="true" />
-            <element signature="e#857#864#0" expanded="true" />
-            <element signature="e#880#887#0" expanded="true" />
-            <element signature="e#893#900#0" expanded="true" />
-            <element signature="e#934#941#0" expanded="true" />
-            <element signature="e#945#952#0" expanded="true" />
-            <element signature="e#953#960#0" expanded="true" />
-            <element signature="e#966#973#0" expanded="true" />
-            <element signature="e#974#981#0" expanded="true" />
-            <element signature="e#990#997#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gywm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -431,8 +422,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xxxq5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="92" column="14" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="14" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzdt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gywm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
